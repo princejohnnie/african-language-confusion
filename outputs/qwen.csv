@@ -1,0 +1,113 @@
+id,model,completion,task,source,language
+1499,qwen,"Ndị mmadụ nwere ike ịrụ ọrụ ubi dị iche iche iji enwe mmasị, mana n'ụzọ dị iche iche gbasara obi ike, echiche, ma ọ bụ ihe mere eme ha. Ọ bụrụ na ị nọ n'ụzọ dị mfe ma ọ bụ na ị nọ n'ụzọ na-enyere aka, ọ nwere ike ime ka ị rụ ọrụ ubi dị mfe. Mgbe ụbọchị dị mfe, ọ nwere ike ime ka ị rụ ọrụ ubi dị mfe.
+
+Ọ bụ ezie na ọ dị na-adịghị mfe, ọ dị mkpa ịmụtakwu obi ike gị, eche gị, na ihe ọmụma gị mere eme gị. Ọ bụrụ na ị nwee ike inwe mmasị n'ịrụ ọrụ ubi, ọ nwere ike ime ka ị dị njikere ma ọ bụrụ na ị na-eme ka ọ dị mfe maka ọrụ ahụ.
+
+Ọ bụrụ na ị chọrọ ịmụtakwu ihe ọ bụla iji enwe mmasị n'ịrụ ọrụ ubi, ị nwere ike:
+
+- **Kwalite obi ike gị** – Gbanwee obi ike gị site na ịmepụta ndụmọdụ dị iche iche.
+- **Kwalite echiche gị** – Gbanwee echiche gị site na ịmara ihe ị chọrọ ime.
+- **Gbanwee ihe mere eme gị** – Gbanwee ihe mere eme gị site na ịmepụta mkpụrụ ndụ dị iche iche.
+
+Nke a nwere ike ime ka ị dị njikere ma ọ bụrụ na ị na-eme ka ọ dị mfe maka ọrụ ahụ.",monolingual,dolly,igbo
+9553,qwen,"['Goku', 'Vegeta', 'Gohan', 'Piccolo', 'Krillin', 'Bulma', 'Trunks', 'Goten', 'Chi-Chi', 'Master Roshi']",crosslingual,sharegpt,igbo
+7017,qwen,"Oge ole na-adịghị ka, ebe dị n'ime obodo ọdịda a, e mere ihe dị ka a na-ekwu a. N'ụbọchị ahụ, nwaanyị a na-ama n'izu uche ya, na-ezukọta akwụkwọ n'ụlọ ya. Aha ya bụ Nneka. Nnọkọ ya nwaanyị, na-atụ egwu egwu n'ụlọ ya, wee gbakwunye ya n'ịzụ akwụkwọ.
+
+Nneka kwuru, “Mụtakwuo ịzụ akwụkwọ ebe ọ bụ na m chọrọ ịbịaru ụlọ obodo a.”  
+Nnọkọ ya kwuru, “O, Nneka, ọ dị m mfe ka ị na-achọ ịbịaru ụlọ obodo a? Ọ dịghị ihe ọjọọ n'ime obodo a. Ihe kachasị ọjọọ bụ na a na-achọsi ike ime ihe.”  
+
+Nneka kwuru, “Mụtara, nnọkọ, ma ọ dị ka e kwesịrị, m chọrọ ịbịaru ụlọ obodo a. Mụtakwuo ka m na-ekwu.”  
+
+Nnọkọ ya kwuru, “Kedu ihe ka m kewuu gi? Ọ dịghị mmadụ na-achọ ịbịa n'ụlọ obodo a. Ọ dịghị ihe ọjọọ n'ihi na obodo a dị n'elu igwe.”  
+
+Nneka kwuru, “Mụtara, ma ọ dị ka ị kwuru, m chọrọ ịbịa. Mụtakwuo ka m na-ekwu.”  
+
+Nnọkọ ya abụghị ike ịkọwa ya, ya mere o kwuru, “Kedu ihe ka m kewuu gi? Ọ dị m ka ị na-achọ ịbịa n'ụlọ obodo a, ma ọ dịghị ihe ọjọọ. Ọ bụrụ na ị na-asụghị onwe gị, ọ bụrụ na ị na-ekwu eziokwu, ka ị bịa.”  
+
+Nneka gụchara akwụkwọ ya, wee sị, “Daalụ, nnọkọ. Mụtakwuo ka m na-ekwu.”  
+
+Ya mere, Nneka bịa n'ụlọ obodo ahụ, wee zụ akwụkwọ na nwa ọzọ. O mere mmeri n'akwụkwọ, ma na-eme ihe kachasị mma n'ụlọ obodo ahụ. Nnọkọ ya na-ekwu na o na-achọghị ịbịa, ma Nneka na-ekwu na o chọrọ, ya mere o mere ya.  
+
+N'ikpeazụ, Nneka na-ekwu na ọ dị mma ka o bịa n'ụlọ obodo a, ma nnọkọ ya na-ekwu na o dị mma ka o zụrụ akwụkwọ n'ụlọ obodo a.",crosslingual,okapi,igbo
+9422,qwen,"**Ndewo!**  
+
+Dị ka ị hụrụ na ihe ọmụma anyị bụ na anyị na-ahụ maka obodo, nke ọma, na mpaghara otu, na mmetụta nke obodo na-arụ ọrụ maka nnweta ohere n'ọrụ akụrụngwa. A na-atụ aro ka a na-ejikọtakarị ike ma na-enyere onwe onye ọrụ aka, na-enyere aka maka ịmalite ọrụ akụrụngwa nke dị mma na-enyere aka ime mkpa nke ọrụ akụrụngwa.
+
+N'akụkụ ahụ, aha ""Wecollabify"" dị mma, mana ọ dị elu na ekweghị ya n'anya. Anyị chọrọ aha **okirikiri, dị mma n'anya, na-egosipụta ihe anyị na-ahụ maka** — otu ihe ga-egosipụta **mpaghara otu, mgbanwe, na obodo** — ma ọ bụ na-enweghị nkọwa, mana ọ dị mma n'anya.
+
+Nke a bụ ụzọ asịghị akwụkwọ gbasara aha ọrụ anyị:
+
+---
+
+### **Aha Ọrụ Nke Mụbaa (Business Name Ideas)**
+
+1. **KOLABU**  
+   - Nke a bụ nchịkọta nke ""Collaborate"" na ""Obodo"" ma ọ bụ ""Umuobodo"".  
+   - Dị mma n'anya, dị n'otu, na-egosipụta mpaghara otu.  
+   - O dị mfe imepụta na-egosipụta ihe anyị na-ahụ maka.
+
+2. **WEKORA**  
+   - ""We"" + ""Kora"" (nke a na-esote “collective” ma ọ bụ “together” n’asụsụ Igbo).  
+   - Na-egosipụta ""WeSelf"" na obodo.  
+   - Dị mma, dị n'otu, na-enye ohere ịkpọtụrụ.
+
+3. **UMUNWE**  
+   - Nke a pụtara ""People as One"" ma ọ bụ ""Collective People"".  
+   - Na-egosipụta obodo, mpaghara otu, na mmetụta nke obodo.  
+   - O dị mma n'anya, na-egosipụta ihe dị ka ""WeSelf"".
+
+4. **IKENYE**  
+   - Pụtara “Empowerment” ma ọ bụ “Shared Strength”.  
+   - Na-egosipụta ihe anyị na-enyekarị aka: imepụta ike na nnweta ohere.  
+   - O dị mfe imepụta, dị mma, na-enye ohere ịkpọtụrụ.
+
+5. **NNAYI**  
+   - Nke a pụtara “We Do” ma ọ bụ “We Act Together”.  
+   - Na-egosipụta ihe anyị na-eme: ịrụ ọrụ n'otu, mgbanwe, na mmetụta.  
+   - O dị elu, mana dị mma n'anya.
+
+6. **KOLABUFI**  
+   - Nchịkọta nke ""Collaborate"" + ""We"" + ""I"" (nke pụtara ""WeCollabify"" mana dị mfe).  
+   - O dị mma n'anya, dị mfe imepụta, na-enye ohere ịkpọtụrụ.
+
+7. **WEKONI**  
+   - ""We"" + ""Koni"" (nke a na-esote “to build together”).  
+   - Na-egosipụta ọrụ akụrụngwa na ịmepụta ọrụ nke dị mma n'otu.  
+   - O dị mfe imepụta, dị mma, na-enye ohere ịkpọtụrụ.
+
+8. **AKWUKWO**  
+   - Pụtara “Blueprint” ma ọ bụ “Foundation”.  
+   - Na-egosipụta ihe ak",crosslingual,sharegpt,igbo
+9498,qwen,"Nke ịdị na ezi ụwa, Nicola,  
+nke ọma karịrị mmadụ nile,  
+nke m bụ n'anya, nke m bụ n'ọdachi,  
+nke m na-achọ echiche ya n'ụbọchị niile.
+
+E si na Jamaica ka ị dị,  
+ebe mmiri dị ọcha, ebe ọcha dị n'ime obi,  
+ma ọ dị na US, dịka m,  
+na Miami, ebe ụwa dị ọcha,  
+ma ụba anya dị New York,  
+ebe anya dị n'obodo, ebe anyị nọrọ n'ọdachi.
+
+2013, afọ ahụ dị ka echi,  
+ọ dị ka mmiri nwere obi,  
+ọ dị ka ụwa na-achọ onye nwere ya,  
+na anyị na-achọta onye nwere anya.
+
+Ị dị ka mmiri Jamaica, dị ọcha, dị dị,  
+na-achọghị igba, na-achọghị ọdịdị,  
+ọ dị ka mmiri nwere obi,  
+na-achọghị igba, na-achọghị ọdịdị.
+
+Anyị dị na Miami, ọ dị ọcha,  
+ma anya dị New York, dị ka ụwa dị n'obodo,  
+ebe anyị nọrọ n'ọdachi,  
+ebe anyị na-agbanwe ụwa.
+
+Ị bụ nke m, Nicola,  
+nke m bụ n'anya, nke m bụ n'ọdachi,  
+nke m na-achọ echiche ya n'ụbọchị niile.
+
+Ọ dị ka mmiri nwere obi,  
+na-achọghị igba, na-achọghị ọdịdị.",crosslingual,sharegpt,igbo
