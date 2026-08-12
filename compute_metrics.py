@@ -158,14 +158,22 @@ def compute_metrics(completions: Iterable[str], lang: str) -> dict[str, float]:
     line_acc = []
 
     for completion in completions:
+        print("Completion: ", completion)
         completion = normalize(completion)
+        print("Normalized Completion: ", completion)
         lines = completion.split("\n")
+        print("Lines: ", lines)
         line_tokens = [tokenize(line) for line in lines]
+        print("line_tokens: ", line_tokens)
         # remove lines that are too short
         indices = [i for i, tokens in enumerate(line_tokens) if len(tokens) >= 5]
         lines = [lines[i] for i in indices]
+        # print("Lines -> ", lines)
         line_tokens = [line_tokens[i] for i in indices]
         if lines:
+            for a_line in lines:
+                print("\nA Line ", a_line)
+                print("Lang ID per line ->", langid(a_line))
             non_skipped += 1
             line_errors = sum(langid(line) != target_label for line in lines)
             if line_errors > 0:
