@@ -42,11 +42,18 @@ CROSSLINGUAL_TARGETS = list(LANGUAGES.keys())
 # PolyWrite, Northern Sotho in Aya) -- the loaders sample min(target,
 # available) and report the shortfall rather than silently padding.
 TARGET_COUNTS = {
+    # Candidate pool pulled per language (see generate_aya_candidates in
+    # prompts.py) for manual curation down to aya below.
+    "aya_base": 200,
     "aya": 100,
-    "dolly": 200,
+    "dolly": 150,
     "polywrite": 100,
-    "afriqa": 250,
+    # "afriqa": 250,
     "crosslingual_okapi": 100,
+    # Candidate pool pulled from the raw RyokoAI/ShareGPT52K scrape (see
+    # generate_sharegpt_candidates in prompts.py) for manual curation down to
+    # crosslingual_sharegpt below.
+    "crosslingual_sharegpt_base": 400,
     "crosslingual_sharegpt": 200,
 }
 
