@@ -1,0 +1,183 @@
+id,prompt,source,task,language
+400,"Fenoy ny banga _
+""Valala tsy _ tsy atolo-jaza""",aya,monolingual,malagasy
+401,"Fenoy ny banga _: 
+""Lasa be famaliana ny _ ankehitriny""",aya,monolingual,malagasy
+402,"Fenoy ny banga:
+ “Ny anongotsongoana ny maty, _”",aya,monolingual,malagasy
+403," Fenoy ny banga _ :
+« _ no nanjanaka an’i Madagasikara nanomboka ny taona 1896 ka hatramin’ny taona 1960 »",aya,monolingual,malagasy
+404,"Fehezanteny voalohany : Mila hajaina  ny ray aman-dreniny.
+Fehezanteny faharoa : Ny ray aman-dreny nahitana masoandro dia lolohavina an-tampin-doha.
+Misy hitovizany ve ireo fehezanteny roa ireo ?",aya,monolingual,malagasy
+405,Inona no atao hoe mpanampy feo manan-tsaina?,aya,monolingual,malagasy
+406,"Andininy voalohany: Ny fanaovana vaksiny dia fomba mahomby hisorohana ny areti-mifindra sasany.
+Fehezan-teny faharoa: Misy ray aman-dreny mandà tsy hanao vaksiny ny zanany noho ny ahiahy momba ny voka-dratsiny.",aya,monolingual,malagasy
+407,Manomeza anarana boky malaza fampianarana malagasy?,aya,monolingual,malagasy
+408,"Inona no fomba mahafinaritra sy manabe mba hampandraisana anjara ny fianakavianao miaraka amin'ny fianarana?
+",aya,monolingual,malagasy
+409,Oviana no niandohan'ny haisoratra malagasy?,aya,monolingual,malagasy
+410,"Inona no anaran’ny vadin’ny rahavavinao?
+a) Ray
+b) Dadatoa
+d) Rahalahy
+e) zaodahy",aya,monolingual,malagasy
+411,"Iza no anaran'ilay mpamily alemà malaza Formula 1 nahazo anaram-boninahitra tompondaka eran-tany fito, mitovy amin'ny firaketan'i Michael Schumacher?
+a) Lewis Hamilton
+b) Sebastian Vettel
+c) Fernando Alonso
+d) Michael Schumacher",aya,monolingual,malagasy
+412,"Fehezanteny voalohany: Ny fitiavan-drahalahy dia fatorana mahatohitra ny olana rehetra ary mihamatanjaka rehefa mandeha ny fotoana.
+Fehezanteny faharoa: Mety hisy tsy fitovian-kevitra sy fifandirana ny mpiray tampo, nefa mbola mifampitsinjo sy mifanohana.
+Mifanaraka ve ireo fehezanteny roa ireo?",aya,monolingual,malagasy
+413,Ny firenena inona no manana sainam-pirenena izay efa niasa ela indrindra ka mbola miasa amin'izao ? ,aya,monolingual,malagasy
+414,inona ny laoka tiany?,aya,monolingual,malagasy
+415,"Fantaro raha maneho fifaliana, alahelo, hatezerana, na tahotra ity fanambarana manaraka ity.
+Fanambarana: ""Taitra tampoka aho fa nanofy ratsy""",aya,monolingual,malagasy
+416,"Ahitsio ny diso tsipelina ao anatin'ity fanambarana manaraka ity:
+""Nanafna ny fo ny fihomehezan'ny namana nitangorna teo amin'ny afn-dasy.""",aya,monolingual,malagasy
+417,"Firy taona no naharetan'ny repoblika voalohany,teto Madakgasikara?
+	1- 13 taona
+	2- 10 taona
+	3- 11 taona
+	4- 12 taona",aya,monolingual,malagasy
+418,Misy fetrany ve ny faharanitan-tsain’olombelona?,aya,monolingual,malagasy
+419,"Fenoy ny banga_
+""Teny zato, kabary arivo fa iray ihany no _.""",aya,monolingual,malagasy
+420,Inona avy no teny natambatra nahazoana ny teny hoe masoandro?,aya,monolingual,malagasy
+421,Inona na zava-niseho teo amin'i Madagasikara sy Frantsa tamin'ny 27 Jona 1960?,aya,monolingual,malagasy
+422,Ahoana no nahatonga ny varika na gidro tao Madagasikara?,aya,monolingual,malagasy
+423,Afaka mamaly fanontaniana ve ny famaliana ny fanontaniana izay mitaky ny fampifangaroana ny fampahalalana amin'ny faritra maro amin'ny lahatsoratra?,aya,monolingual,malagasy
+424,"""Nikiry sy niafy ny ekipa mpanao baolina lavalava malagasy tamin'ny fiomanana amin'ny lalaon'ny nosy.""
+Inona no mety hiafaran'ity tantara ity?
+A. Tsy nisy nandeha amin'izay laoniny ny lalao nataon'izy ireo teny ambonin'ny kianja.
+B. Azon'ny ekipa malagasy ny amboara.
+",aya,monolingual,malagasy
+425,Manomeza karazana fandrahoana vary anakiroa,aya,monolingual,malagasy
+426,"Fenoy ny banga _
+Hoy Siméon Rajaona: “Ny literatiora dia zava-kanto _""",aya,monolingual,malagasy
+427,Inona no mpivarotra tsara aleha raha hividy fitaovan'ny mpianatra moramora kokoa?,aya,monolingual,malagasy
+428,"Tohizo izao ohabolana izao : ""Manalasala toy ny akoholahy lava sanga,  .............................................. """,aya,monolingual,malagasy
+429,Inona avy ireo sakafo malaza eto Madagasikara?,aya,monolingual,malagasy
+430," « Foto-pisainan’ny Malagasy ny hoe « Ny fanahy no olona », maneho izay heveriny ho fototry ny soa rehetra manendrika ny fiainan’ny mpiara-monina. « Ny Fanahy maha-olona » no tsy maintsy manentana antsika eo amin’ny hetsika amam-pana rehetra.Tsy ho tafarina ny firenena raha tsy io « maha-olona » io no zary fototra iorenan’ny fiarahamonina indray. Raha voakolokolo tsara izy dia tsy ho kobaka ambava intsony fa ho tanteraka an’asa ny fanajana ny fahamendrehan’ny olombelona tsy ankanavaka, ny fikatsahana ny soa iombonana, ny fananana konsiansy sy eritreritra eo am-panatanterahana ny adidy aman’andraikitra.  Hanarenana izany « fanahy maha-olona » izany eto amin’ny firenena, dia ny Malagasy tsy misy avakavaka no tsy maintsy mahatsiaro tena ho tompon’andraikitra, misika herim-po sy fahasahiana hanarina ny toe-javatra. »
+Inona no mety ho lohahevitr’io lahatsoratra ambony io ?",aya,monolingual,malagasy
+431,"Karazam-barotra inona no anana sy tantanin'ny olona iray?
+
+1-Ny orinasa an'olon-tokana
+2-Ny orinasa voafetra
+3-Koperativa",aya,monolingual,malagasy
+432,"
+Inona ny fanalavana ny TPFLM?",aya,monolingual,malagasy
+433,"Ny atoma dia kely noho ny molekiola. Marina sa diso?
+",aya,monolingual,malagasy
+434,Inona no atao hoe ranomasina?,aya,monolingual,malagasy
+435,"Inona no anaran'ilay mpanamboatra fiara fanatanjahantena italiana malaza, fantatra amin'ny modely mena, toy ny 488 GTB sy ny Testarossa?",aya,monolingual,malagasy
+436,"Tohizo izao ohabolana izao : ""  Manaova Zavatra Mba .................................. """,aya,monolingual,malagasy
+437,"Oviana ny aretina ""corona-virus"" no tonga voalohany teto Madagasikara?",aya,monolingual,malagasy
+438,Inona no volana fahafolo amin'ny teny gasy?,aya,monolingual,malagasy
+439,Iza no tanàna grika tranainy nisy ny Lalao Olaimpika fahiny nandritra ny taonjato maro?,aya,monolingual,malagasy
+440,"Ity fanambarana manaraka ity dia amin'ny teny anglisy, 
+adikao amin'ny teny malagasy
+""Good morning""",aya,monolingual,malagasy
+441,"fenoy ny banga :"" Aza manao tohiny Hao andoha,_""",aya,monolingual,malagasy
+442,Hanimba tanteraka ny masonao ve ny famakiana amin'ny hazavana manjavozavo?,aya,monolingual,malagasy
+443,Inona ary izany: tsy ray tsy reny ka iantsapatsapazana?,aya,monolingual,malagasy
+444,"Mitovy hevitra ve ireto fehezanteny roa manaraka ireto?
+1. “Nazoto nijery ny ala izy ireo.”
+2. ""Tamin'ny hafanam-po izy ireo dia nijery ny ala.""
+
+",aya,monolingual,malagasy
+445,"Inona àry izany : "" Ilaimena tànan-drambo "" ?",aya,monolingual,malagasy
+446, Iza no sivilizasiona fahiny talohan'ny Kolombiana nanorina ny tanànan'i Machu Picchu any amin'ny tendrombohitra Andes?,aya,monolingual,malagasy
+447,Inona no atao hoe fanorona?,aya,monolingual,malagasy
+448,Manao ahoana ireo olona tsy mino ny anjara?,aya,monolingual,malagasy
+449,"Indro misy lahatsoratra:
+
+Na dia nanaraka ny fizaham-pahazam-pahasalamana tao amin’ny hopitalin’i Mahabibo fony izy bevohoka aza ny renin’i Leyannah kely dia tsy maintsy niteraka an-trano ihany tamin’ny alin’ny 12 Mey 2023. Natahotra ny tsy fahandriam-pahalemana ny fianakaviany sady natahotra ny hivoaka ny trano tamin’ny alina ka naleon’izy ireo niantso mpiasan’ny fahasalamana ho any aminy hanampy hampizotra tsara ny fiterahana. 
+
+Inona no nahatonga ny fianakavian'ny renin'i Leyannah tsy nitondra azy tany amin'ny hopitaly?",aya,monolingual,malagasy
+450,"Tohizo izao ohabolana izao : ""  Zay Miala Moramora Tsy Midika Hoe Resy, ..................................... """,aya,monolingual,malagasy
+451,"Inty misy lahatsoratra:
+""Ho an' ny mpijery vintan'andro dia hoe ny olona teraka andro na volana Alakaosy ihany no afaka hitondra an'i Madagasikara satria, hoy izy, Alakaosy no fipetraky ny Nosy eo amin'ny glaoby. Izany no antony natahoran'ny mpanjaka ny olona teraka alakaosy ka nasainy nalaina vintana ireo olona ireo. Rehefa jerena tokoa ny andro na ny volana nahaterahan'ireo Filoha nifandimby dia Alakaosy ry zareo.""
+
+Miresaka momba ny inona io lahatsoratra io?",aya,monolingual,malagasy
+452,"Farito ny teny hoe ""riba"".",aya,monolingual,malagasy
+453,Oviana i Madagasikara no lasa zanatany frantsay?,aya,monolingual,malagasy
+454,"Iza no mpandinika niteny hoe : "" Izay mifanaraka amin’ny fitsipika no hitsiny ary izay tsy mifanitsy amin’izay no heloka "" ?",aya,monolingual,malagasy
+455,"""Ny baolina kitra dia lalao mampiroborobo ny fiaraha-miasa. Ny mpilalao tsirairay dia manana andraikitra manokana, ary ny fandrindrana eo amin'izy ireo dia tena ilaina amin'ny fahombiazana eo amin'ny sehatra. Fanatanjahan-tena izay mitaky fahaiza-manao ara-batana, toy ny hafainganam-pandeha, ny fiaretana ary ny fahitsiana, ary koa ny fahaizana ara-tsaina, toy ny fandraisana fanapahan-kevitra haingana sy ny fitantanana ny adin-tsaina."". Inona no lohahevitr'io lahatsoratra eo ambony io?",aya,monolingual,malagasy
+456,"""Antsoina matetika hoe kaontinanta nosy i Madagasikara noho ny fahasamihafan'ny zava-manan'aina miavaka. Manodidina ny 90% amin'ny zava-maniry sy biby ao amin'ny nosy dia tsy hita na aiza na aiza eran'izao tontolo izao. Io ihany no toerana ahitanao ............."".
+Fanontaniana: Vinavinaio ny Banga ?",aya,monolingual,malagasy
+457,"Tohizo izao ohabolana izao :  « Soa lavo hahay hamindra,....................... » ",aya,monolingual,malagasy
+458,"Ireto misy fanambarana :
+""Navita tsara ny fanadinana izy."" sy ""Nahazo valiny tsara izy tamin'ny fanadinana.""
+Mifanindra-teny ve ireo ?",aya,monolingual,malagasy
+459,Lazao ny anaran’ny olona nanoratra ny tantara an-tsehatra « Sangy mahery ».,aya,monolingual,malagasy
+460,Inona no anaran'ny tsenan'ny zava-manitra malaza eto Antananarivo?,aya,monolingual,malagasy
+461,Iza no anaran'ilay mpanjaka nampianatra ny vahoaka malagasy hihinana hen'omby?,aya,monolingual,malagasy
+462,"Tohizo izao ohabolana izao : "" Aza atao fitia an-tendro-molotra fa ...............................  "" ",aya,monolingual,malagasy
+463,oviana no nanomboka ny fitetezana am-bisikileta an'i Frantsa?,aya,monolingual,malagasy
+464,"Inona no planeta lehibe indrindra amin'ny rafi-masoandro misy antsika?
+
+1. Venus
+2. Tany
+3. Jupiter",aya,monolingual,malagasy
+465,Iza ilay Farao Ejiptiana fantatra fa nanangana ny Piramida Lehiben'i Giza tamin'ny 2560 talohan'i Jesosy Kristia?,aya,monolingual,malagasy
+466,"Fenoy ny banga :""Sepotry ny nataony toy ny totozikely .........""",aya,monolingual,malagasy
+467,inona no fanalavana ny hoe JIRAMA?,aya,monolingual,malagasy
+468,"Inona ny datin’ny fahaleovantenan’i Madagasikara ?
+",aya,monolingual,malagasy
+469,Ny fianakavian'i Rakoto dia manomboka ny androny amin'ny sakafo maraina ara-pahasalamana amin'ny 7:30 maraina. ,aya,monolingual,malagasy
+470,Inona no atao hoe fampianarana lavitra synchronous?,aya,monolingual,malagasy
+471,Iza no nanoratra ny Lehilahy Thin in 1934 ? ,aya,monolingual,malagasy
+472,Inona no antsoina hoe anarana iombonana?,aya,monolingual,malagasy
+473,"Ity misy toe-java-niseho: “Nandritra ny lalao dia nahafaty baolina nandresy ho an’ny ekipany i Matio.” Raha mamorona fanontaniana avy amin'io teny manodidina io isika, ary ny valin'io fanontaniana io dia ""Matio"", inona no fanontaniana?",aya,monolingual,malagasy
+474,"Manana ny teny mikorontana ianao:
+""AFKO""
+Fantaro ny teny marina.",aya,monolingual,malagasy
+475, Inona no renivohitr'i Espana?,aya,monolingual,malagasy
+476,Marina sa diso: velona foana ny olona na tsy misakafo aza.,aya,monolingual,malagasy
+477,Fa maninona no nisy ny literatiora am-bava teto Madagasikara?,aya,monolingual,malagasy
+478,Inona no atao hoe vokatra ho an'ny mpanjifa isan'andro?,aya,monolingual,malagasy
+479,"""Ny fanohanany sy ny fahatakarany tsy tapaka mandritra ny fotoan-tsarotra dia loharanom-piononana izay tiako."" inona ny fihetseham-po tamin'ny fanambarana teo aloha?",aya,monolingual,malagasy
+480,Manao ahoana ny endriky ny tany?,aya,monolingual,malagasy
+481,"""Afaka fanadinana aho, faly be!"" inona ny fihetseham-pon'ilay fanambarana?
+
+",aya,monolingual,malagasy
+482,Inona ny renivohitry ny firenena Portugal?,aya,monolingual,malagasy
+483,Afaka hoanina miaraka amin'ny vary ve ny frity ovy?,aya,monolingual,malagasy
+484,"Araka ity lahatsoratra ity, inona avy ireo endrika isehoan' ny valin-tanana ?
+""Nanomboka hampita ireny hevitra ireny Randria tany am-panangonam-bokatra tany. Saika tsy nino izy nony afaka volana vitsivitsy taty aoriana, betsaka no tsy nino toa azy tamin'ireo olona nitantarany fa misy toerana maromaro ahitana ny fiaraha-miasan'ny tambanivohitra, mampitatra ny valin-tanana, manova ny endriky ny dinam-pokonolona mba hampitodika bebe kokoa ny saina ho amin'ny fiaraha-mamokatra tsy
+ho an'ny tombontsoan'ny fianakaviana fosiny ihany fa ho an'ny faritany manontolo mihitsy.
+Koa tanana vitsitvitsy mifanakaiky mihitsy aza no indreo mfaninana sy mifarimbona, mifampitarika sy mifanentana ho amin'ny fiaraha-miasa vaovao. Azo tsapain-tanana ny vokatr' izany, na dia miadana dia miadana aza ny fisehony. Nitatra tsikelikely ny lalana azon'ny saretin' omby naleha na dia sarotra aza ny fanatanterahana izany noho ny tsy fananana fitaovana ara-dalana. Nifanentana ny mponina mba hiaro ny vokatry ny taniny tsy hanjakan'ny mpijirika sy ny mpanambaka azy harizay, ary indrindra nataony ty nahita hirika hidirana intsony ireo vahiny mpitratrevatreva nanaraotra ny ty fahalalany sy ny fahasahiranany amin' ny fikarakarany ny vokatra isan-taona. Tsaroany kokoa ankehitriny fa eo am-pelatanany ny hery hiadiana amin'ny hanoanana sy ny ty fisiana mifamotoana amin'ny fahavaratra.""",aya,monolingual,malagasy
+485,"Ity fanambarana manaraka ity dia amin'ny teny malagasy, adikao amin'ny teny frantsay
+""Inona ny loko tianao indrindra?""",aya,monolingual,malagasy
+486,"Diniho ity fanambarana manaraka ity: 
+
+“Manao tsinontsinona ireo mpanao fihetsiketsehana ireo aho; mpanao fanjakan'ny Baroa fotsiny izy ireo."" Misy resaka fankahalana ve ilay fanambarana?
+",aya,monolingual,malagasy
+487,"Fantaro raha maneho fifaliana, alahelo, hatezerana, na tahotra ity fanambarana manaraka ity: ""Mbola tsy niomana akory isika anefa ilay fifaninanana efa rahampitso sahady.""",aya,monolingual,malagasy
+488,Inona ny loza ara-voajanahary mahafaty olona be indrindra ? ,aya,monolingual,malagasy
+489,Afaka mahazo gripa ve ianao amin'ny fanaovana tifitra gripa?,aya,monolingual,malagasy
+490,"Indro  misy fanehoan-kevitra:
+""Ny raharaham-pirenena tsy tokony hatao kilalao, ka tokony handinika tsara ireo tompon'andraikitra isan-tsokajiny.""
+
+Maneho endrika fanavakavahana na ahitana teny mety hanafintohina ve io fanehoan-kevitra io?
+
+",aya,monolingual,malagasy
+491,"Inona ny nosy malagasy any amin'ny avaratr'i Madagasikara.
+1. Nosy Sainte Marie
+2. Nosy Be",aya,monolingual,malagasy
+492,"Fenoy ny banga _
+""Toy ny tongotra vakivaky, sady marary no _""",aya,monolingual,malagasy
+493,"Inona no andraikitry ny filoham-pirenena araka ny lalàm-panorenana malagasy?
+",aya,monolingual,malagasy
+494,"Fenoy ny banga: ""Ny _ dia vanim-potoana iray teo amin'ny tantaran'ny Malagasy izay nikambanan'ny fanjakana teo an-toerana.""
+",aya,monolingual,malagasy
+495,"Ahitsio izay diso tsipelina ao anatin'ity fanambarana manaraka ity:
+""Fotoana foy na herinandro angmba izay no tsy nihaona izahay. Nifanaraka fa tsy hifankait na raovina na raovina.""",aya,monolingual,malagasy
+496,"Inona no fototry ny fifandraisana mahomby?
+
+",aya,monolingual,malagasy
+497,Inona no soatoavina raketin'ny famorana?,aya,monolingual,malagasy
+498,Inona ny litera faharoa amin'ny abidy?,aya,monolingual,malagasy
+499,Inona no voka-dratsy ateraky ny finoana ny tody eo amin'ny tsirairay sy ny fiaraha-monina?,aya,monolingual,malagasy

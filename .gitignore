@@ -1,5 +1,6 @@
 .env
 __pycache__/
 venv
-prompts
+prompts/crosslingual
+prompts/monolingual/afriqa
 lcb_test_sets

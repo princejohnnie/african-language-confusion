@@ -1,0 +1,101 @@
+id,prompt,source,task,language
+3874,Andika barua pepe kumshukuru mwanafamilia au rafiki kwa zawadi aliyokupa. Taja wazi kwa nini unathamini zawadi hiyo na jinsi unavyopanga kuitumia.,polywrite,monolingual,swahili
+3875,Fikiria mhusika ambaye ana kipenzi cha roboti na AI ya hali ya juu ambayo huanza kukuza utu na matamanio yake.,polywrite,monolingual,swahili
+3876,"Hebu fikiria ulimwengu ambapo hisia huwekwa kwenye chupa na kuuzwa. Je, hii ingebadilisha vipi mwingiliano wa binadamu na jamii?",polywrite,monolingual,swahili
+3877,"Mtu huanza kupata ndoto zao mbaya katika maisha halisi. Kila wakati wanapoamka, kipande kingine cha ulimwengu wa ndoto huwafuata katika ukweli.",polywrite,monolingual,swahili
+3878,"Mtengenezaji wa wanasesere huunda wanasesere wanaofanana na maisha, lakini baada ya kutoweka kwake kwa njia isiyoeleweka, wanasesere hao huanza kutenda kana kwamba wako hai, kila mmoja akiwa na nia mbaya.",polywrite,monolingual,swahili
+3879,"Eleza utaratibu wa kufanya kazi wa mbali, lakini badala ya kufanya kazi nyumbani, mhusika anafanya kazi kutoka maeneo tofauti ya kupendeza (kama vile visiwa vinavyoelea au misitu iliyorogwa).",polywrite,monolingual,swahili
+3880,Andika barua pepe kwa rafiki wa karibu au mwanafamilia ukishiriki habari za kusisimua. Waambie maelezo na jinsi unavyohisi kulihusu.,polywrite,monolingual,swahili
+3881,"Ununuzi mtandaoni umezidi kuwa maarufu katika miaka ya hivi karibuni. Ni sababu gani za mwelekeo huu, na una athari gani kwa biashara za ndani?",polywrite,monolingual,swahili
+3882,"Wengine wanaamini kufikia usawa wa maisha ya kazi ni ngumu zaidi leo kuliko zamani. Je, unakubaliana au hukubaliani na kauli hii kwa kiasi gani?",polywrite,monolingual,swahili
+3883,"Baadhi wanaamini kwamba wazazi wanapaswa kuwa na jukumu la kulea watoto, wakati wengine wanafikiri serikali inapaswa kuchukua jukumu. Jadili maoni yote mawili na toa maoni yako.",polywrite,monolingual,swahili
+3884,"Geuza siku isiyo ya kawaida ya shughuli fupi kuwa pambano kuu, na kila kuacha kuwasilisha changamoto ya kipekee (km, kupata viungo adimu, kutatua mafumbo, n.k.).",polywrite,monolingual,swahili
+3885,"Tazama jamii ambapo uchawi na teknolojia zimeunganishwa bila mshono. Je, watu hutumiaje nguvu hizi katika maisha yao ya kila siku?",polywrite,monolingual,swahili
+3886,"Andika barua pepe kwa ofisi ya uandikishaji ya chuo kikuu ukiomba habari kuhusu programu maalum. Uliza kuhusu mchakato wa maombi, tarehe za mwisho, nk.",polywrite,monolingual,swahili
+3887,"Tunga shairi ambalo humchukua msomaji kupitia safu ya picha za ndoto, kuchanganya ukweli na mawazo.",polywrite,monolingual,swahili
+3888,"Umekabidhiwa kazi ya ajabu ya ununuzi, lakini maduka unayotumwa si ya kawaida—kila moja lina siri inayohitaji kufichuliwa.",polywrite,monolingual,swahili
+3889,"Eleza mhusika ambaye hawezi kufa lakini anahisi kila uchungu kutokana na majeraha yao. Je, wanakabilianaje na kuwepo huku?",polywrite,monolingual,swahili
+3890,"Mtu asiyemfahamu aliyejifunika uso anaendelea kuonekana kwenye matukio mbalimbali ya uhalifu lakini haonekani kuwa ameunganishwa na uhalifu huo. Wao ni nani, na wanajua nini?",polywrite,monolingual,swahili
+3891,Andika barua pepe kwa idara ya huduma kwa wateja ya kampuni ili kushughulikia hali mbaya ya matumizi uliyokuwa nayo katika huduma zao. Eleza tatizo na upendekeze jinsi ungependa litatuliwe.,polywrite,monolingual,swahili
+3892,Andika barua pepe kwa mwakilishi wa huduma kwa wateja ukiuliza kuhusu upatikanaji na vipimo vya bidhaa unayotaka kununua.,polywrite,monolingual,swahili
+3893,Kundi la maharamia wa angani huabiri meli za angani kupitia visiwa vinavyoelea na miji ya angani kutafuta hazina ya hadithi iliyofichwa kwenye mawingu.,polywrite,monolingual,swahili
+3894,Mwandikie profesa wako barua pepe ukiomba kuongezewa muda wa kazi. Eleza hali yako na utoe ratiba inayofaa ya wakati unaweza kukamilisha kazi.,polywrite,monolingual,swahili
+3895,"Watu wazima wengi bado hawana ujuzi wa kimsingi wa kidijitali katika ulimwengu wa sasa. Je, ni sababu zipi nyuma ya hili, na nini kifanyike ili kuboresha ujuzi wa kidijitali?",polywrite,monolingual,swahili
+3896,Andika mazungumzo kati ya mpelelezi na bwana wa uhalifu ambao ni marafiki wa utotoni kwa siri.,polywrite,monolingual,swahili
+3897,"Katika ofisi ya kichawi, wafanyakazi hutumia potions ili kuongeza tija yao kwa kazi tofauti. Ni nini hufanyika wakati mtu anachukua dawa isiyofaa kwa kazi isiyo sahihi?",polywrite,monolingual,swahili
+3898,Unda mazungumzo kati ya mwanaanga na mgeni ambaye huwasiliana kwa kutumia rangi badala ya maneno.,polywrite,monolingual,swahili
+3899,"Tunga barua pepe kwa wanafunzi wenzako wanaoratibu mradi wa kikundi. Panga kazi, weka makataa, na upendekeze wakati wa mkutano ili kujadili maendeleo.",polywrite,monolingual,swahili
+3900,Andika kuhusu sayari ambayo iliundwa na spishi ya hali ya juu lakini imeachwa. Wakaaji wapya wanagundua nini kuhusu kusudi lake la kweli?,polywrite,monolingual,swahili
+3901,Andika barua pepe kwa profesa ukiuliza kuhusu fursa zinazowezekana za utafiti. Angazia mambo yanayokuvutia na ueleze ni kwa nini ungependa kufanya kazi nayo.,polywrite,monolingual,swahili
+3902,"Hebu fikiria darasa la yoga ambalo hufanyika katika studio ya uchawi ambapo mabadiliko ya mvuto, wakati wa kupinda, na pozi huchukua athari za kichawi.",polywrite,monolingual,swahili
+3903,Andika kuhusu msaidizi wa kibinafsi wa AI anayeanza kutafsiri kazi kwa ubunifu na kuchukua hatua ambazo ni muhimu na zisizotabirika.,polywrite,monolingual,swahili
+3904,"Eleza ulimwengu ambapo ustaarabu huishi kwenye visiwa vinavyoelea angani, na rasilimali husafirishwa kupitia mtandao wa puto kubwa.",polywrite,monolingual,swahili
+3905,"Andika kuhusu mji ambao, mmoja baada ya mwingine, watu wanatoweka bila kuwaeleza. Wale waliobaki hawana kumbukumbu ya waliopotea.",polywrite,monolingual,swahili
+3906,Hebu fikiria kuishi katika nyumba ambayo inaweza kujisafisha lakini inakuza &#39;maoni&#39; yake kuhusu usafi unapaswa kuonekana. Matatizo gani hutokea?,polywrite,monolingual,swahili
+3907,Andika barua pepe ya ufuatiliaji kwa mteja anayetarajiwa ambaye alionyesha nia ya bidhaa yako. Wakumbushe manufaa na ujitolee kujibu maswali yoyote.,polywrite,monolingual,swahili
+3908,Hebu wazia ufalme ambapo hisia hudhibiti hali ya hewa. Eleza siku katika maisha ya raia anayeishi huko.,polywrite,monolingual,swahili
+3909,Unda mfululizo wa haikus ambayo kila moja inawakilisha kumbukumbu iliyogawanyika ya upendo uliosahaulika.,polywrite,monolingual,swahili
+3910,"Wengine wanaamini mitandao ya kijamii ina ushawishi chanya kwa jamii, huku wengine wakidhani ina athari mbaya. Jadili maoni yote mawili na toa maoni yako.",polywrite,monolingual,swahili
+3911,Umeanza kazi mpya na unataka kujitambulisha kwa washiriki wa timu yako. Andika barua pepe rasmi ukijitambulisha na kuelezea furaha yako kuhusu kufanya kazi pamoja.,polywrite,monolingual,swahili
+3912,"Dragons wametoweka kwa muda mrefu, lakini mtu amezaliwa upya katika mwili wa mwanadamu. Je, hii inaathirije ulimwengu wa uchawi?",polywrite,monolingual,swahili
+3913,"Kila wakati unapopanda basi kwenda kazini, unapata toleo tofauti la safari sawa katika ulimwengu sambamba. Ni mifumo gani au mabadiliko gani unaanza kuona?",polywrite,monolingual,swahili
+3914,"Tunga barua pepe kwa mteja anayethaminiwa kumshukuru kwa kuendelea kufanya biashara, na umfahamishe kuhusu ofa au ofa maalum.",polywrite,monolingual,swahili
+3915,Wafanyakazi hukwama kwenye kisiwa cha ajabu ambacho hubadilisha kila mara mazingira yake na kuficha siri za kale.,polywrite,monolingual,swahili
+3916,Andika shairi ambapo kila msimu ni mtu na wao kushiriki katika mazungumzo kuhusu mzunguko wa maisha.,polywrite,monolingual,swahili
+3917,"Andika kuhusu kufanya safari fupi sokoni ambapo wachuuzi huuza vitu vya kawaida na vya kichawi, na kuvinjari hakuhitaji pesa tu bali mbinu za ujanja au mafumbo.",polywrite,monolingual,swahili
+3918,"Tunga barua pepe inayothibitisha mteja mpya kwa jarida la kampuni yako. Washukuru kwa kujiandikisha, waambie nini cha kutarajia, na ujumuishe wito wa kuchukua hatua.",polywrite,monolingual,swahili
+3919,"Programu mpya inadai kuiga &#39;siku kamili ya kazi&#39; kulingana na tabia na mapendeleo ya mtu binafsi. Andika kuhusu mtu anayeijaribu, na kugundua kuwa ni kali zaidi kuliko vile walivyotarajia.",polywrite,monolingual,swahili
+3920,"Katika jangwa lililojaa dhoruba hatari za mchanga na viumbe vilivyofichwa, wasafiri hushindana katika mbio za kila mwaka ili kupata tuzo adimu.",polywrite,monolingual,swahili
+3921,"Katika miji mingi mikubwa, uchafuzi wa hewa na maji ni suala muhimu. Ni nini sababu za matatizo haya, na ni hatua gani zinaweza kuchukuliwa ili kuboresha hali hiyo?",polywrite,monolingual,swahili
+3922,"Andika barua pepe ili kufuatilia mahojiano ya kazi uliyokuwa nayo wiki mbili zilizopita. Onyesha nia yako ya kuendelea katika nafasi, asante mhojiwa kwa wakati wao, na uombe sasisho.",polywrite,monolingual,swahili
+3923,Andika barua pepe kwa profesa wako ukimwomba msamaha kwa kukosa darasa kutokana na hali zisizotarajiwa. Uliza ikiwa kuna nyenzo yoyote unayohitaji kupata.,polywrite,monolingual,swahili
+3924,"Maendeleo ya kiteknolojia yamebadilisha jinsi watu wanavyowasiliana. Je, ni faida na hasara gani za maendeleo haya?",polywrite,monolingual,swahili
+3925,"Mkutano unafanyika kati ya viumbe ngeni ili kuunda mkataba wa amani wa ulimwengu. Je, wanashinda vipi vizuizi vya lugha na kitamaduni?",polywrite,monolingual,swahili
+3926,"Unda simulizi kuhusu vizalia vya zamani ambavyo, vinapoguswa, humwonyesha mmiliki mukhtasari wa maisha yake ya baadaye, lakini kwa sekunde 10 pekee.",polywrite,monolingual,swahili
+3927,"Tunga barua pepe isiyo rasmi ikiwaalika marafiki kwenye karamu unayoandaa. Jumuisha maelezo kuhusu tarehe, saa, eneo na shughuli zozote maalum.",polywrite,monolingual,swahili
+3928,"Unda ulimwengu ambapo chanzo pekee cha maji ni oasis ya fumbo ambayo hutembea kila mwezi, na kusababisha uhamiaji wa mara kwa mara wa wakazi wote.",polywrite,monolingual,swahili
+3929,Umegundua malipo yasiyo sahihi kwenye bili yako ya kila mwezi. Andika barua pepe kwa idara ya utozaji ukielezea suala hilo na uombe masahihisho.,polywrite,monolingual,swahili
+3930,"Fikiria kuwa una nguvu kuu ambayo hukuruhusu kusitisha wakati kwa dakika 10 kila saa. Je, unajumuishaje hili katika utaratibu wako wa kila siku?",polywrite,monolingual,swahili
+3931,"Katika ulimwengu ambapo kumbukumbu zinaweza kuibiwa, elezea maisha ya mwizi wa kumbukumbu ambaye anaanza kupoteza utambulisho wao wenyewe.",polywrite,monolingual,swahili
+3932,Andika kuhusu mazungumzo yasiyo ya kawaida lakini mafupi ambayo hufanyika kwenye usafiri wa umma kati ya abiria wanaotoka katika nyanja tofauti za maisha.,polywrite,monolingual,swahili
+3933,Eleza siku duniani ambapo mvuto hubadilika ghafla kwa saa chache. Watu na wanyama hutendaje?,polywrite,monolingual,swahili
+3934,"Fikiria kwamba kila wakati unapofanya mazoezi, unasafirishwa hadi kwenye ukweli mbadala ambapo nguvu zako za kimwili huathiri ulimwengu unaokuzunguka. Eleza kipindi kimoja cha mazoezi.",polywrite,monolingual,swahili
+3935,"Je, ikiwa rangi zote duniani zilianza kutoweka moja baada ya nyingine? Eleza kinachotokea ikiwa kuna rangi moja pekee iliyobaki.",polywrite,monolingual,swahili
+3936,Hebu fikiria historia mbadala ambapo Leonardo da Vinci alikamilisha mashine ya wakati wa kufanya kazi. Ni nini kingetokea ikiwa ingegunduliwa katika nyakati za kisasa?,polywrite,monolingual,swahili
+3937,Andika barua pepe isiyo na kifani kwa mteja anayetarajiwa kutambulisha kampuni yako na kutoa huduma zako. Angazia uwezo wako mkuu na ueleze jinsi unavyoweza kusaidia biashara zao.,polywrite,monolingual,swahili
+3938,"Hebu fikiria ofisi ambayo kila mfanyakazi anawakilisha hisia tofauti (kwa mfano, furaha, hasira, wivu). Je, wanapitiaje kazi na mikutano ya kila siku?",polywrite,monolingual,swahili
+3939,"Mabadiliko ya hali ya hewa yana athari kubwa kwenye sayari yetu. Unafikiri ni sababu gani kuu za mabadiliko ya hali ya hewa, na ni nini athari zake kwa mazingira?",polywrite,monolingual,swahili
+3940,"Andika kuhusu mtu ambaye anafanya mpango na kiumbe wa kichawi kushikamana na malengo yao ya afya. Kila siku wanaruka kazi fulani, wanakumbana na matokeo ya ajabu lakini yasiyofaa.",polywrite,monolingual,swahili
+3941,Andika barua pepe ya mauzo kwa mteja aliyepo anayetoa bidhaa zinazohusiana ambazo wanaweza kupendezwa nazo kulingana na ununuzi wa awali. Angazia kwa nini bidhaa hizi zinakamilisha ununuzi wao.,polywrite,monolingual,swahili
+3942,"Unene unazidi kuwa tatizo kubwa katika nchi nyingi. Ni nini sababu za suala hili, na ni hatua gani zinaweza kuchukuliwa kushughulikia?",polywrite,monolingual,swahili
+3943,"Katika jumba la sanaa maarufu, picha za kuchora huanza kunong&#39;ona siri kuhusu watu wanaozitazama. Ni nini nyuma ya jambo hili la kushangaza?",polywrite,monolingual,swahili
+3944,"Tunga barua pepe ya uuzaji inayotangaza uzinduzi wa bidhaa mpya. Jumuisha maelezo kuhusu vipengele vya bidhaa, manufaa na ofa au mapunguzo yoyote maalum.",polywrite,monolingual,swahili
+3945,Tunga barua pepe kwa mwajiri wa zamani ukiomba kuzitumia kama rejeleo la ombi jipya la kazi. Omba ruhusa yao kwa upole na uwashukuru kwa msaada wao.,polywrite,monolingual,swahili
+3946,Mwana mfalme au binti mfalme amelaaniwa kugeuka kuwa mnyama kila usiku. Lazima watafute njia ya kuinua laana kabla haijawateketeza.,polywrite,monolingual,swahili
+3947,"Katika nchi nyingi, vijana wanatatizika kupata kazi. Ni nini sababu za suala hili, na ni suluhisho gani unaweza kupendekeza?",polywrite,monolingual,swahili
+3948,"Eleza safari ya kila siku katika jiji la fantasia lililojaa viumbe wa ajabu, ambapo usafiri wa umma unajumuisha magari ya uchawi, viumbe wanaoruka au lango.",polywrite,monolingual,swahili
+3949,"Hebu wazia asili ikiimba wimbo wa kutumbuiza duniani kabla ya usiku kuingia. Je, ingetumia maneno na taswira gani?",polywrite,monolingual,swahili
+3950,"Katika maisha ya baadaye, roho huhukumiwa kulingana na kumbukumbu za wema walizoziacha. mhusika anatambua kuwa wanaishiwa na fedha.",polywrite,monolingual,swahili
+3951,"Ongezeko la watu linazidi kuwa wasiwasi mkubwa katika miji mingi. Ni nini sababu za kuongezeka kwa idadi ya watu, na ni nini athari kwa maisha ya mijini?",polywrite,monolingual,swahili
+3952,"Eleza hadithi ya kundi la upinzani wakati wa utawala dhalimu katika historia, na matatizo ya kimaadili wanayokabiliana nayo ili kuendelea kuishi.",polywrite,monolingual,swahili
+3953,"Ufalme unaofikiriwa kupotea katika historia unagunduliwa tena, lakini watu wake hawajazeeka kwa karne nyingi. Ni nini kiliwapata?",polywrite,monolingual,swahili
+3954,"Kila wakati unapofulia, soksi hupotea, lakini badala ya kutoweka, husafiri kwa wakati. Andika juu ya uvumbuzi ambao unaongoza.",polywrite,monolingual,swahili
+3955,Tunga barua pepe kwa profesa wa zamani au mshauri ukiuliza ushauri wa kazi. Eleza kwa ufupi hali yako ya sasa na uombe mwongozo wa jinsi ya kusonga mbele.,polywrite,monolingual,swahili
+3956,"Kundi la wagunduzi limeunda teknolojia ya kuruka kati ya vipimo, lakini kila kipimo ni hatari zaidi kuliko ile ya mwisho. Ni nini huwafanya waendelee?",polywrite,monolingual,swahili
+3957,"Eleza msafara wa kuelekea sehemu ya kina kabisa ya bahari, ambako walipata jambo ambalo hawakutarajia—mji wa kale unaolindwa na viumbe wasiojulikana.",polywrite,monolingual,swahili
+3958,"Buni muundo wa orodha bunifu na usio wa kawaida wa mambo ya kufanya ambao hubadilisha kazi za kila siku kuwa mchezo. Sheria ni zipi, na zinakuchocheaje?",polywrite,monolingual,swahili
+3959,Andika mazungumzo kati ya mtu aliye hai na mzimu ambaye hutoa ushauri wa maisha usiotarajiwa.,polywrite,monolingual,swahili
+3960,"Andika kuhusu mtu anayefanya mazoezi ya kutafakari katika sehemu zisizo za kawaida (kwa mfano, juu ya ghorofa kubwa, chini ya bahari, kwenye msitu mnene) ili kujiweka katikati baada ya siku ndefu.",polywrite,monolingual,swahili
+3961,Upatikanaji wa safari za kimataifa umeongezeka kwa kiasi kikubwa. Jadili faida na hasara kwa watalii na nchi mwenyeji.,polywrite,monolingual,swahili
+3962,Unahitaji kupanga mkutano na mwenzako ili kujadili maendeleo ya mradi. Andika barua pepe ya heshima ukiomba wakati unaofaa wa mkutano na utoe muhtasari mfupi.,polywrite,monolingual,swahili
+3963,Hebu wazia jiji lenye kuenea chini ya ardhi linaloendeshwa na mimea ya bioluminescent. Wakaaji wake wanakabili changamoto gani?,polywrite,monolingual,swahili
+3964,"Timu ya wagunduzi hugundua ustaarabu uliofichwa ambao haujaguswa na ulimwengu wa nje kwa karne nyingi. Je, wanashirikiana vipi na jamii hii?",polywrite,monolingual,swahili
+3965,"Katika miaka ya hivi karibuni, kazi ya mbali imekuwa ya kawaida zaidi. Jadili faida na hasara za kazi ya mbali.",polywrite,monolingual,swahili
+3966,"Baadhi ya watu wanaamini kwamba matatizo ya mazingira yanapaswa kutatuliwa duniani kote, wakati wengine wanafikiri yanapaswa kushughulikiwa ndani ya nchi. Jadili maoni yote mawili na toa maoni yako.",polywrite,monolingual,swahili
+3967,"Katika jiji la siku zijazo, mfumo wa treni ya chini ya ardhi ni mlolongo unaobadilika kila wakati. Andika kuhusu safari za kawaida za mtu kupitia mfumo huu usiotabirika.",polywrite,monolingual,swahili
+3968,Unda hadithi ambapo utayarishaji wa mlo wa kila siku unageuka kuwa tukio la upishi-kila kiungo kinatoka katika nchi ya ajabu na inahitaji utunzaji maalum.,polywrite,monolingual,swahili
+3969,"Wengine wanaamini kuwa kujifunza mtandaoni kuna ufanisi zaidi kuliko ujifunzaji wa kitamaduni, huku wengine wakisema kuwa kujifunza darasani bado ni muhimu. Jadili maoni yote mawili na toa maoni yako.",polywrite,monolingual,swahili
+3970,"Katika siku za usoni, ufahamu unaweza kuhamishiwa kwa miili tofauti. Ni nini hufanyika wakati mtu anahamishiwa kwenye mwili wa bandia na anataka kurudi kwenye fomu yake ya asili?",polywrite,monolingual,swahili
+3971,"Tunga barua pepe kwa msimamizi wako ukiomba msamaha kwa kukosa makataa ya mradi. Eleza sababu ya kuchelewa, na ueleze hatua zako ili kuhakikisha halitajirudia.",polywrite,monolingual,swahili
+3972,"Katika maeneo mengi ya mijini, ukosefu wa makazi unaongezeka. Je! ni sababu gani za ongezeko hili, na nini kifanyike ili kupunguza tatizo hilo?",polywrite,monolingual,swahili
+3973,"Eleza mfumo wa kazi ambapo kila kazi ya nyumbani inageuzwa kuwa mchezo mdogo, ulio na viwango, zawadi na changamoto zisizotarajiwa.",polywrite,monolingual,swahili
