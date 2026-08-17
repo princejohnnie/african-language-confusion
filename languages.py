@@ -50,6 +50,9 @@ TARGET_COUNTS = {
     # prompts.py) for manual curation down to dolly below.
     "dolly_base": 250,
     "dolly": 150,
+    # Candidate pool pulled per language (see generate_polywrite_candidates in
+    # prompts.py) for manual curation down to polywrite below.
+    "polywrite_base": 150,
     "polywrite": 100,
     # "afriqa": 250,
     "crosslingual_okapi": 100,
