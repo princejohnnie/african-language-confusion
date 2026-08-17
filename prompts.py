@@ -193,29 +193,83 @@ def load_dolly() -> pd.DataFrame:
     return _load_dolly_curated()
 
 
-def load_polywrite() -> pd.DataFrame:
+POLYWRITE_CANDIDATES_DIR = "candidates/polywrite_candidates"
+POLYWRITE_CURATED_DIR = "candidates/polywrite_curated"
+
+
+def generate_polywrite_candidates(out_dir: str = POLYWRITE_CANDIDATES_DIR) -> dict:
+    """Pull PolyWrite prompts per language, keep only the >5 word ones, sample
+    TARGET_COUNTS['polywrite_base'] candidates per language, and save one CSV
+    (prompt + its English original, prompt_en) per language under `out_dir`
+    for manual review.
+
+    Review each file, delete the rows you don't want, and save the result
+    (down to TARGET_COUNTS['polywrite']) to the corresponding path under
+    POLYWRITE_CURATED_DIR before calling load_polywrite()."""
+    import os
+
     from datasets import load_dataset
 
     df = load_dataset("MaLA-LM/PolyWrite", split="train", token=mc.get_hf_token()).to_pandas()
 
-    n = TARGET_COUNTS["polywrite"]
-    frames = []
+    n = TARGET_COUNTS["polywrite_base"]
+    os.makedirs(out_dir, exist_ok=True)
+    os.makedirs(POLYWRITE_CURATED_DIR, exist_ok=True)
+    frames = {}
     for key, info in LANGUAGES.items():
         code = info.get("polywrite")
         if code is None:
             continue
         subset = df[df["lang_script"] == code]
+        subset = subset[subset["prompt_translated"].str.split().str.len() > 5]
         if subset.empty:
-            print(f"  [WARN] polywrite/{key}: no rows found for '{code}'")
+            print(f"  [WARN] polywrite_candidates/{key}: no rows found for '{code}'")
             continue
-        subset = _sample(subset, n, key, "polywrite")
-        frames.append(pd.DataFrame({
+        subset = _sample(subset, n, key, "polywrite_candidates")
+        candidates = pd.DataFrame({
             "prompt": subset["prompt_translated"].values,
+            "prompt_en": subset["prompt_en"].values,
+        })
+        path = os.path.join(out_dir, f"{key}.csv")
+        candidates.to_csv(path, index=False)
+        frames[key] = candidates
+        print(f"  Saved {len(candidates)} candidates to {path} -- review and prune to "
+              f"{TARGET_COUNTS['polywrite']}, then save as {os.path.join(POLYWRITE_CURATED_DIR, f'{key}.csv')}")
+    return frames
+
+
+def _load_polywrite_curated(curated_dir: str = POLYWRITE_CURATED_DIR) -> pd.DataFrame:
+    """Load the manually curated PolyWrite candidate pool (see
+    generate_polywrite_candidates), one CSV per language, as monolingual
+    prompts."""
+    import os
+
+    n = TARGET_COUNTS["polywrite"]
+    frames = []
+    for key, info in LANGUAGES.items():
+        if info.get("polywrite") is None:
+            continue
+        path = os.path.join(curated_dir, f"{key}.csv")
+        if not os.path.exists(path):
+            raise FileNotFoundError(
+                f"{path} not found -- run generate_polywrite_candidates() first, review "
+                f"the resulting candidates CSV, prune it down to {n} prompts, and "
+                f"save it to {path}."
+            )
+        subset = pd.read_csv(path)
+        if len(subset) != n:
+            print(f"  [WARN] polywrite/{key}: curated file has {len(subset)} prompts, expected {n}")
+        frames.append(pd.DataFrame({
+            "prompt": subset["prompt"].values,
             "source": "polywrite",
             "task": "monolingual",
             "language": key,
         }))
     return pd.concat(frames, ignore_index=True)
+
+
+def load_polywrite() -> pd.DataFrame:
+    return _load_polywrite_curated()
 
 
 def load_afriqa() -> pd.DataFrame:
