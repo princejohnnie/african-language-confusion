@@ -46,6 +46,9 @@ TARGET_COUNTS = {
     # prompts.py) for manual curation down to aya below.
     "aya_base": 200,
     "aya": 100,
+    # Candidate pool pulled per language (see generate_dolly_candidates in
+    # prompts.py) for manual curation down to dolly below.
+    "dolly_base": 250,
     "dolly": 150,
     "polywrite": 100,
     # "afriqa": 250,

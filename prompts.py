@@ -112,7 +112,21 @@ def load_aya() -> pd.DataFrame:
     return _load_aya_curated()
 
 
-def load_dolly() -> pd.DataFrame:
+DOLLY_CANDIDATES_DIR = "candidates/dolly_candidates"
+DOLLY_CURATED_DIR = "candidates/dolly_curated"
+
+
+def generate_dolly_candidates(out_dir: str = DOLLY_CANDIDATES_DIR) -> dict:
+    """Pull Dolly prompts per language, drop the ones carrying a "Context:"
+    block, keep only the >=5 word ones, sample TARGET_COUNTS['dolly_base']
+    candidates per language, and save one CSV per language under `out_dir`
+    for manual review.
+
+    Review each file, delete the rows you don't want, and save the result
+    (down to TARGET_COUNTS['dolly']) to the corresponding path under
+    DOLLY_CURATED_DIR before calling load_dolly()."""
+    import os
+
     from datasets import load_dataset
 
     df = load_dataset(
@@ -122,8 +136,10 @@ def load_dolly() -> pd.DataFrame:
         token=mc.get_hf_token(),
     ).to_pandas()
 
-    n = TARGET_COUNTS["dolly"]
-    frames = []
+    n = TARGET_COUNTS["dolly_base"]
+    os.makedirs(out_dir, exist_ok=True)
+    os.makedirs(DOLLY_CURATED_DIR, exist_ok=True)
+    frames = {}
     for key, info in LANGUAGES.items():
         code = info.get("dolly")
         if code is None:
@@ -132,16 +148,49 @@ def load_dolly() -> pd.DataFrame:
         subset = subset[~subset["inputs"].str.contains("Context:", na=False)]
         subset = subset[subset["inputs"].str.split().str.len() >= 5]
         if subset.empty:
-            print(f"  [WARN] dolly/{key}: no rows found for '{code}'")
+            print(f"  [WARN] dolly_candidates/{key}: no rows found for '{code}'")
             continue
-        subset = _sample(subset, n, key, "dolly")
+        subset = _sample(subset, n, key, "dolly_candidates")
+        candidates = pd.DataFrame({"prompt": subset["inputs"].values})
+        path = os.path.join(out_dir, f"{key}.csv")
+        candidates.to_csv(path, index=False)
+        frames[key] = candidates
+        print(f"  Saved {len(candidates)} candidates to {path} -- review and prune to "
+              f"{TARGET_COUNTS['dolly']}, then save as {os.path.join(DOLLY_CURATED_DIR, f'{key}.csv')}")
+    return frames
+
+
+def _load_dolly_curated(curated_dir: str = DOLLY_CURATED_DIR) -> pd.DataFrame:
+    """Load the manually curated Dolly candidate pool (see
+    generate_dolly_candidates), one CSV per language, as monolingual prompts."""
+    import os
+
+    n = TARGET_COUNTS["dolly"]
+    frames = []
+    for key, info in LANGUAGES.items():
+        if info.get("dolly") is None:
+            continue
+        path = os.path.join(curated_dir, f"{key}.csv")
+        if not os.path.exists(path):
+            raise FileNotFoundError(
+                f"{path} not found -- run generate_dolly_candidates() first, review "
+                f"the resulting candidates CSV, prune it down to {n} prompts, and "
+                f"save it to {path}."
+            )
+        subset = pd.read_csv(path)
+        if len(subset) != n:
+            print(f"  [WARN] dolly/{key}: curated file has {len(subset)} prompts, expected {n}")
         frames.append(pd.DataFrame({
-            "prompt": subset["inputs"].values,
+            "prompt": subset["prompt"].values,
             "source": "dolly",
             "task": "monolingual",
             "language": key,
         }))
     return pd.concat(frames, ignore_index=True)
+
+
+def load_dolly() -> pd.DataFrame:
+    return _load_dolly_curated()
 
 
 def load_polywrite() -> pd.DataFrame:
