@@ -3,4 +3,3 @@ __pycache__/
 venv
 prompts/crosslingual
 prompts/monolingual/afriqa
-lcb_test_sets
